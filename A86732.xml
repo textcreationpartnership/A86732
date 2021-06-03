@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble apology of some commonly called Anabaptists, in behalf of themselves and others of the same judgement with them: with their protestation against the late wicked and most horrid treasonable insurrection and rebellion acted in the city of London. Together with an apology formerly presented to the Kings most Excellent Majesty.</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86732</idno><idno type="EEBO-CITATION">99862777</idno>
+  <idno type="VID">114953</idno>
+  <idno type="EEBO-PROQUEST">2240945183</idno>
+  
+            <idno type="STC">Wing H3404</idno>
+            <idno type="STC">Thomason E1057_1</idno>
+            <idno type="STC">ESTC R202527</idno>
+            <idno type="PROQUEST">99862777</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862777e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114953)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1057[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble apology of some commonly called Anabaptists, in behalf of themselves and others of the same judgement with them: with their protestation against the late wicked and most horrid treasonable insurrection and rebellion acted in the city of London. Together with an apology formerly presented to the Kings most Excellent Majesty.</title>
+                  <author>Kiffin, William, 1616-1701.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills, and are to be sold by Francis Smith, at the sign of the Elephant and Castle without Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on B3v: William Kiffen [and 29 others].</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Jan. 28.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anabaptists --  Apologetic works --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114953:1"/>
+            <p>The Humble APOLOGY Of some commonly called ANABAPTISTS, In behalf of themselves and others of the same Judgement with them: With their <hi>Protestation</hi> against the late wicked and most horrid treasonable <hi>Insurrection</hi> and <hi>Rebellion</hi> acted in the City of <hi>LONDON.</hi>
+            </p>
+            <p>Together With an <hi>Apology</hi> formerly presented to the KINGS most Excellent MAJESTY.</p>
+            <q>
+               <bibl>
+                  <hi>Acts 22. V. 1.</hi>
+               </bibl>
+               <p>Men, brethren, and fathers, hear ye my defence [<hi>Gr.</hi> Apology] which I make now unto you.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Psal. 35.11.</hi>
+               </bibl>
+               <p>False witnesses did rise up, they said to my charge things that I knew not.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Acts 24. V. 12, 13.</hi>
+               </bibl>
+               <p>They neither found me in the Temple disputing with any man, neither raising up the people, neither in the Synagogues, nor in the City.</p>
+               <p>Neither can they prove the things whereof they now accuse me.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> and are to be sold by <hi>Francis Smith,</hi> at the sign of the <hi>Elephant</hi> and <hi>Castle</hi> without <hi>Temple-Bar.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:114953:2"/>
+            <pb n="5" facs="tcp:114953:2"/>
+            <head>The Humble <hi>Apology</hi> of some commonly called <hi>Anabaptists,</hi> in behalf of them<g ref="char:EOLhyphen"/>selves and others of the same Judge<g ref="char:EOLhyphen"/>ment with them, with their <hi>Protesta<g ref="char:EOLhyphen"/>tion</hi> against the late wicked and most horrid treasonable <hi>Insurrection</hi> and <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> acted in the City of <hi>London:</hi> toge<g ref="char:EOLhyphen"/>ther with an <hi>Apology</hi> formerly presented to the Kings most Excellent Majesty.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E should be stupid and senceless, if we did not deeply resent those black obloquies and reproaches cast upon those of our profession and practice in the point of <hi>Baptism,</hi> by oc<g ref="char:EOLhyphen"/>casion of the late most horrid <hi>Treason</hi> and <hi>Rebellion</hi> in this City of <hi>London.</hi>
+            </p>
+            <p>We most sadly see and feel that among many it is become enough to render any
+<pb n="6" facs="tcp:114953:3"/>man criminal to be called an <hi>Anabaptist,</hi> or at least a ground sufficient to question his Loyalty and fidelity to the Kings Ma<g ref="char:EOLhyphen"/>jesty.</p>
+            <p>We may not therefore be so negligent of our duty unto God in respect of our profession, or unto our selves and families, as silently to suffer our names and profes<g ref="char:EOLhyphen"/>sion to be buried under such causeless in<g ref="char:EOLhyphen"/>famy: neither may we be so much wan<g ref="char:EOLhyphen"/>ting of our duty to our King, as by such sullen silence to offer his Majesty just oc<g ref="char:EOLhyphen"/>casion of being jealous and suspicious of our Loyalty and Obedience, or to leave him without all possible rational security of our humble subjection and fidelity to him. We acknowledge that the Histo<g ref="char:EOLhyphen"/>ries of <hi>Germany</hi> relate most dreadful things of the impious opinions and practices of some reputed <hi>Anabaptists</hi> destructive to all Government and humane Society. Al<g ref="char:EOLhyphen"/>though its to be observed what <hi>Cassander,</hi> a learned and moderate Papist, relates in his Epistle to the Duke of <hi>Gulick</hi> and <hi>Cleve,</hi>
+               <pb n="7" facs="tcp:114953:3"/>to this purpose. That there were certain people in <hi>Germany</hi> bearing the denomi<g ref="char:EOLhyphen"/>nation of <hi>Anabaptists,</hi> who resisted and op<g ref="char:EOLhyphen"/>posed the opinions and practices of those at <hi>Munster,</hi> and taught the contrary Do<g ref="char:EOLhyphen"/>ctrine, Whereby (in his opinion) they ap<g ref="char:EOLhyphen"/>peared to be incited by a Godly mind, and rendred themselves rather worthy of pity then persecution and perdition. And that in <hi>Holland</hi> those who have succeeded them, do in Doctrine and practice adhere to the same peaceable principles, is publiquely known. But the misguided zeal of some (otherwise minded in the point of <hi>Baptism</hi>) hath frequently, though unduely, imputed the like impious opinions, designs and in<g ref="char:EOLhyphen"/>tentions unto all that are called by that name; although their souls abhor the very memory of such impious doctrines, and their bloody consequences. That such evil opinions and practices are no natural or necessary concomitants or consequences of the Doctrine about Baptism, nor of any possible connexion with it, is easie to be discerned; yet by the like mistake we now
+<pb n="8" facs="tcp:114953:4"/>suffer under jealousies, through the wicked Treason, Rebellion and Murder, of a few heady and distempered persons, pre<g ref="char:EOLhyphen"/>tending to introduce a Civil and tempo<g ref="char:EOLhyphen"/>ral reign and Government of Jesus Christ by their swords, and to subvert all <hi>Civil Government</hi> and <hi>Authority.</hi>
+            </p>
+            <p>Yet we cannot imagine a reason why their bloody tenents, and tragical actings, should reflect upon those of our perswa<g ref="char:EOLhyphen"/>sion, the persons not being of our belief or practice about Baptism, but, to the best of our information, they were all (ex<g ref="char:EOLhyphen"/>cept one) assertors of Infant-Baptism, and never had communion with us in our As<g ref="char:EOLhyphen"/>semblies; nor hath there been any corre<g ref="char:EOLhyphen"/>spondence, or converse between us: but contrariwise, in their Meetings, they have inveighed bitterly against us, as worship<g ref="char:EOLhyphen"/>pers of the Beast, because of our constant declaring against their conceited, wild in<g ref="char:EOLhyphen"/>terpretations of dark Prophecies, and en<g ref="char:EOLhyphen"/>thusiastical impulses, and professed and practised our duty of subjection to the Civil Magistracy.</p>
+            <pb n="9" facs="tcp:114953:4"/>
+            <p> And it is notoriously known, the very same persons, or at least the Leaders, and the most of them, formerly advanced their pretended Standard of Jesus Christ, as much against us as against any others. And it is as publiquely known, that e<g ref="char:EOLhyphen"/>ven in this their Rebellion, such of us as were called thereunto (which were many) were ready to hazard our lives to suppress them.</p>
+            <p>And if such a constant continued op<g ref="char:EOLhyphen"/>position unto the impious tenents and practices of these persons both in our Doctrine and Lives, will not be esteem<g ref="char:EOLhyphen"/>ed a pregnant and cogent evidence of our unspotted innocence from their Treason and Rebellion, and satisfie every man, that <hi>our Souls never entred into their secrets,</hi> we can only appeal to the All-seeing God, the Judge of all the earth, to vin<g ref="char:EOLhyphen"/>dicate us in his righteous judgement, who we are assured will judge and doe right<note n="*" place="margin">Gen. 18.23.</note>. In whose presence we Protest, that we neither had the least foreknowledge of the said late Treasonable Insurrection, nor
+<pb n="10" facs="tcp:114953:5"/>did any of us in any kind or degree what<g ref="char:EOLhyphen"/>soever, directly, or indirectly, contrive, promote, assist, abet, or approve the same: but do esteem it our duty to God, to his Majesty, and to our Neighbour, not only to be obedient, but also to use our utmost industry to prevent all such Treasons, Murders, and Rebellions; and to use, in all our Assemblies, constant prayers and supplications for his Maje<g ref="char:EOLhyphen"/>sty.</p>
+            <p>Wherefore we humbly beseech his Ma<g ref="char:EOLhyphen"/>jesty, and desire all our fellow subjects, that our Actions, Doctrines and Lives, may be the only glasses through which they will look into our hearts, and pass judgement upon us, and that the te<g ref="char:EOLhyphen"/>nents or opinions of others, either in this or foreign Kingdoms, may not be im<g ref="char:EOLhyphen"/>puted to us, when our Doctrines and Lives do declare our abhorrency of them: We believing, that Jesus Christ himself, his Apostles, and Christian Religion, did consist with, and obey the Impe<g ref="char:EOLhyphen"/>rial Government that then was in the
+<pb n="11" facs="tcp:114953:5"/>World, and that we ought to obey his Majesty <hi>not only for wrath, but for consci<g ref="char:EOLhyphen"/>ence sake.</hi>
+            </p>
+            <p>We desire therefore that it may be considered without prejudice, whether our perswasion in the matter of <hi>Bap<g ref="char:EOLhyphen"/>tism,</hi> hath any connexion with these Doctrines against <hi>Government?</hi> Or whe<g ref="char:EOLhyphen"/>ther these can be the probable conse<g ref="char:EOLhyphen"/>quences or inferences from our Do<g ref="char:EOLhyphen"/>ctrine concerning <hi>Baptism?</hi> And we pray that it may be seriously conside<g ref="char:EOLhyphen"/>red, whether it be rational, just, or Christian, to impute all the errors and wickedness of any Sect of Christians in one age or Country, to the persons of another age and Country, called by the name of the former? especially when these errours or impieties gave not the name to the Sect, (as in our case) nor can be reasonably supposed to be the consequences of that opinion from whence the Sect had its denomina<g ref="char:EOLhyphen"/>tion.</p>
+            <p>It would not be holden just to aver
+<pb n="12" facs="tcp:114953:6"/>every Protestant to believe <hi>Consubstantiati<g ref="char:EOLhyphen"/>on,</hi> or <hi>absolute Predestination</hi> and <hi>Reprobation,</hi> because <hi>Luther</hi> was zealous in the one, and <hi>Calvin</hi> in the other; why therefore should the errors and impieties of others, be imputed to us, whilst we earnestly contend against them? And as to our Doctrine of Baptism, we hope every Christian that hath searched the Scrip<g ref="char:EOLhyphen"/>tures, knoweth, that there wants not so much evidence, at least for our opinion and practice, as Christian charity may well allow, though in some mens judgements we should be esteemed mis<g ref="char:EOLhyphen"/>taken; and it will be easily granted by the <hi>Learned,</hi> that there is no impiety in our Doctrine of Baptism, nor opposition to <hi>Civil Government,</hi> or his Majesties <hi>Au<g ref="char:EOLhyphen"/>thority;</hi> neither can the injury of our Neighbour be the natural consequence of it.</p>
+            <p>And therefore we humbly hope, That the Omnipotent power of Heaven and Earth will so dispose his Majesty and his Peoples hearts, that we may worship
+<pb n="13" facs="tcp:114953:6"/>God in peace and freedom, according to the Faith we have received, living a peace<g ref="char:EOLhyphen"/>able and quiet life in all godliness and ho<g ref="char:EOLhyphen"/>nesty.</p>
+            <div type="postscript">
+               <head>Post-script.</head>
+               <p>THat it may yet more fully appear, That our Principles suggested in this Apology about subjection to <hi>Magistracy</hi> and <hi>Government,</hi> against the contrary opi<g ref="char:EOLhyphen"/>nions and practices, are not new, much less proceeding from us upon the success<g ref="char:EOLhyphen"/>lesness of this Tragical enterprise, we have thought fit herewith to publish an Apology of our ancient and constant Principles, presented with our humble Pe<g ref="char:EOLhyphen"/>tition to the Kings most excellent Maje<g ref="char:EOLhyphen"/>sty, some moneths since, in the year, 1660.</p>
+               <closer>
+                  <pb n="14" facs="tcp:114953:7"/>
+                  <signed>
+                     <list>
+                        <item>William Kiffen.</item>
+                        <item>John Batty.</item>
+                        <item>Thomas Cooper.</item>
+                        <item>John Pearson.</item>
+                        <item>Henry Hills.</item>
+                        <item>Edward Harrison.</item>
+                        <item>Samuel Tull.</item>
+                        <item>John Cox.</item>
+                        <item>Jam. Knight.</item>
+                        <item>Chr. Blackwood.</item>
+                        <item>Edward Roberts.</item>
+                        <item>John Man.</item>
+                        <item>Z. Worth.</item>
+                        <item>Henry Den.</item>
+                        <item>Thomas Lamb.</item>
+                        <item>Philip Travors.</item>
+                        <item>Thomas Penson.</item>
+                        <item>Fran. Smith.</item>
+                        <item>John Gosnold.</item>
+                        <item>Tho. Bromhall.</item>
+                        <item>Samuel Stanton.</item>
+                        <item>John Browning.</item>
+                        <item>Thomas Lathwel.</item>
+                        <item>John Spilsbery.</item>
+                        <item>Jer. Zanchy.</item>
+                        <item>Joseph Simpson.</item>
+                        <item>John Rix.</item>
+                        <item>John Clayton.</item>
+                        <item>Daniel Royse.</item>
+                        <item>Mark Cam.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="document">
+            <pb n="15" facs="tcp:114953:7"/>
+            <head>An Apology of some called <hi>Ana<g ref="char:EOLhyphen"/>baptists,</hi> in and about the City of <hi>London,</hi> in behalf of them<g ref="char:EOLhyphen"/>selves and others of the same Judgement with them.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as it hath been our portion all along to suffer, not only some hard things in many of our persons, but also very much in our reputati<g ref="char:EOLhyphen"/>ons, through the unjust aspersions and calumnies of our adversaries, and such, who, though they dayly behold our inoffensive conver<g ref="char:EOLhyphen"/>sation, and do or may know our Faith and Do<g ref="char:EOLhyphen"/>ctrine, will not yet be delivered from those ground<g ref="char:EOLhyphen"/>less and injurious reports, which they have, without proof, concerning things or persons, taken up, but contrariwise continue in press, pulpit and common discourse, industriously to divulge things tending to our defamation, and more especially for that purpose watching the opportunity of all revoluti<g ref="char:EOLhyphen"/>ons and changes of persons exercised in Govern<g ref="char:EOLhyphen"/>ment, which hath often hapned in these Nations of late years.</p>
+            <pb n="16" facs="tcp:114953:8"/>
+            <p> And inasmuch as the design of our adversaries therein hath appeared to be the rendring of us obnoxious to those that have had most power in their hand to offend and harm us, and have for that purpose invented such calumnies as might best accomplish that design, which although they have been various, and sometimes manifestly cross and contradictory one to another, yet ha<g ref="char:EOLhyphen"/>ving no other ground (that we know of) then the forementioned evil purpose; they have therefore both one and other, even all of them, been gene<g ref="char:EOLhyphen"/>rally accompanied with the charge of disobedi<g ref="char:EOLhyphen"/>ence to Magistracy and Civil Government.</p>
+            <p>We have therefore been necessitated (as altera<g ref="char:EOLhyphen"/>tions in Government have hapned) to renew our vindications in this publique manner, having very seldome opportunity otherwise to inform either Magistrates or people of the injuries done unto us, and which is much more, to the truth we do pro<g ref="char:EOLhyphen"/>fess. And that in this present conjuncture of af<g ref="char:EOLhyphen"/>fairs, the mis-representation of us, either formerly or now, may not take impression upon any to the damage of us and our profession, we have thought it requisite not to bring to light any new matter, but only to extract out of our former Confessions of Faith, and Declarations, our constant Principles to which we have been (and shall alwayes endea<g ref="char:EOLhyphen"/>vour (the Lord assisting us) that our practice may still be) conformable in this great point concern<g ref="char:EOLhyphen"/>ing Magistracy and civil Government, as by these extracts following may appear.</p>
+            <pb n="17" facs="tcp:114953:8"/>
+            <p>
+               <hi>That Civil Magistracie is an Ordinance of God,</hi>
+               <note place="margin">Consession of Faith of those Churches in <hi>London,</hi> which are common<g ref="char:EOLunhyphen"/>ly, though un<g ref="char:EOLhyphen"/>justly, called Auabaptists, Art 47. prin<g ref="char:EOLhyphen"/>ted in the se<g ref="char:EOLhyphen"/>veral years, 1651, 1646, 1644, &amp;c. Declaration concerning a publique di<g ref="char:EOLhyphen"/>spute printed in the year 1645. p. 4.</note>
+               <hi>set up by him for the punishment of evil doers, and for the praise of them that do well, and that in all lawful things commanded by them, subjection ought to be gi<g ref="char:EOLhyphen"/>ven by us in the Lord, not only for wrath, but for conscience sake; and that we are to make supplicati<g ref="char:EOLhyphen"/>ons and prayers for Kings, and all that are in Autho<g ref="char:EOLhyphen"/>rity, that under them we may live a peaceable a quiet life in all godliness and honesty.</hi>
+            </p>
+            <p>
+               <hi>We who are falsly called Anabaptists, being as rea<g ref="char:EOLhyphen"/>dy to obey our Civil Magistrates, as to profess our sub<g ref="char:EOLhyphen"/>jection to them in all lawful Commands, what<g ref="char:EOLhyphen"/>ever is preached or printed of us, by any to the contra<g ref="char:EOLhyphen"/>ry, and whosoever have or shall accuse us, either to the Magistrates or to the common people, that we will not obey Authority, do falsely accuse us.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">Declaration by the several Congregatio<g ref="char:EOLhyphen"/>nal societies in and about the City of <hi>London,</hi> in way of vindi<g ref="char:EOLhyphen"/>cation of themselves touching Li<g ref="char:EOLhyphen"/>berty, Magi<g ref="char:EOLhyphen"/>stracy, <hi>&amp;c.</hi> printed, 1647. p. 7. S. 3. &amp; 4.</note>
+               <hi>And however it be a thing very desireable to godly men to have such to be their Governors as fear the Lord, inasmuch as together with their moral Princi<g ref="char:EOLhyphen"/>ples, they are under more solemn bands of engage<g ref="char:EOLhyphen"/>ment as Christians, to execute Judgement and Ju<g ref="char:EOLhyphen"/>stice, and faithfully to discharge their Trust; and in<g ref="char:EOLhyphen"/>asmuch also as they will be more ready to protect godly men which generally are the hated of the world, and to propagate the Gospel in their Territories, then other men will be; yet what ever the Magistrate is in point of Religion, he is to be reverenced and obeyed in all those commands of his, which do not intrench upon, or rise up in opposition to the commands of God.</hi>
+            </p>
+            <p>
+               <hi>And we do freely acknowledge that Kingly Government established, guided and bounded by
+<pb n="18" facs="tcp:114953:9"/>just and wholsom Laws, is both allowed by God, and a good accommodation to men.</hi>
+            </p>
+            <p>
+               <hi>That all people in every nation,</hi>
+               <note place="margin">Declaration of divers El<g ref="char:EOLhyphen"/>ders and Bre<g ref="char:EOLhyphen"/>thren of Con<g ref="char:EOLhyphen"/>gregational Societies in and about the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> the 10th of <hi>Nov.</hi> 1651. Declaration of several of the people cal<g ref="char:EOLhyphen"/>led Anabap<g ref="char:EOLhyphen"/>tists in and about the Ci<g ref="char:EOLhyphen"/>vie of <hi>Lon<g ref="char:EOLhyphen"/>don, Decemb.</hi> the 12. 1659. The answer to the first Cri<g ref="char:EOLhyphen"/>mination.</note>
+               <hi>as well members of Churches as others, ought for conscience sake to honour such as by the wise disposing providence of God, are their Rulers, and are to submit to the Civil Com<g ref="char:EOLhyphen"/>mands, not only of such Rulers as are faithful, but even to Infidels.</hi>
+            </p>
+            <p>
+               <hi>Although we cannot answer in justification of eve<g ref="char:EOLhyphen"/>ry individual person that is of our profession in mat<g ref="char:EOLhyphen"/>ters of Religion, no more then our Christian friends of other perswasions can do in behalf of all of their perswasions, yet we can say this, and prove it to all the world, that it hath been our profession, and is our real practice to be obedient to Magistracy in all things Ci<g ref="char:EOLhyphen"/>vil, and willing to live peaceably under the Govern<g ref="char:EOLhyphen"/>ment established in this Nation: For we do believe and declare Magistracy to be an Ordinance of God, and ought to be obeyed in all law fulthings.</hi>
+            </p>
+            <p>These things we have herein recited, the rather because that such judgement as shall be made by any concerning us, may be fairly and duly taken and calculated from our own writings, and not from the aspersions unjustly cast upon us by such who have not only rendred many guilty for the offence sake of some one person, but also called others after the same name given to us, with whom we have had or held no correspondency or agreement, endeavouring to blemish our profes<g ref="char:EOLhyphen"/>sion, by charging the whole party, not only with the guilt of many strange unsound opinions, such
+<pb n="19" facs="tcp:114953:9"/>as were never received or allowed by them, but also with many actions wherein they have been least of all, if at all concerned. And as for those things wherein any of us, or other of our judge<g ref="char:EOLhyphen"/>ment have been actually concerned, we hope it hath proceeded from a due regard to those invari<g ref="char:EOLhyphen"/>able Rules given in the holy Scripture for the or<g ref="char:EOLhyphen"/>dering our conversation with respect unto Magi<g ref="char:EOLhyphen"/>stracy, according to the best judgement could be made of them, and pursuant thereunto, done in ob<g ref="char:EOLhyphen"/>servance of those publique Edicts and Declarati<g ref="char:EOLhyphen"/>ons, whereunto the most universal obedience, and constant adherence hath been required by those that have had the power over us, and who have ad<g ref="char:EOLhyphen"/>mitted us the least of any people to dispute the reason of Governments and laws.</p>
+            <p>And for that the subjection yielded by us to the powers that have been over us, hath proceeded from a conscience not daring to disobey, unless in such things which we could not understand to be lawful, and the affections that have been manife<g ref="char:EOLhyphen"/>sted therein have arisen from the enjoyment of that due liberty and protection which we have had in matters of Religion; we do hope and de<g ref="char:EOLhyphen"/>sire that none of us upon the re-establishment of the present Government, shall now be adjudged criminal by our present Governors, but that we may notwithstanding, reap the benefit of that fa<g ref="char:EOLhyphen"/>vour that hath been declared and tendred by the Kings Majesty, and be protected from all injury and violence whatsoever, equally with others his
+<pb n="20" facs="tcp:114953:10"/>Majesties Subjects, in the quiet and peaceable en<g ref="char:EOLhyphen"/>joyment of our Religious and Civil Rights and Liberties, we desiring and endeavouring to be<g ref="char:EOLhyphen"/>have our selves in all good conscience towards God and man, remembring that Rule of our Lord, that we are to render unto <hi>Caesar</hi> the things which are <hi>Caesars,</hi> and to God the things which are Gods; and that we, as well as Rulers, must certainly at the great day be accountable to the Just and Righteous Judge of all the earth, for all our doings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
